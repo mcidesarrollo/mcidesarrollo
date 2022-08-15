@@ -1,5 +1,3 @@
-## History:
-
 ### In 2022
 - We develop several custom plugins for some clients (written in PHP).
 - We incorporate new functionalities to our plugin [Supplier Order Email Premium](https://mci-desarrollo.es/supplier-order-email-premium/)
