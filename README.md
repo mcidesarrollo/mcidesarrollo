@@ -1,3 +1,9 @@
+### In 2023
+- We have developed a new plugin to control Shelly devices from WordPress.
+- We develop several custom plugins and custom addons for some clients (written in PHP).
+- We develop a lot of new functionalities to our plugin [Supplier Order Email Premium](https://mci-desarrollo.es/supplier-order-email-premium/)
+- We incorporate new functionalities to our plugin [Simple Product Sample](https://es.wordpress.org/plugins/simple-product-sample-for-woocommerce/)
+
 ### In 2022
 - We develop several custom plugins for some clients (written in PHP).
 - We incorporate new functionalities to our plugin [Supplier Order Email Premium](https://mci-desarrollo.es/supplier-order-email-premium/)
