@@ -1,3 +1,7 @@
+### In 2024
+- We develop Ridermaker app.
+- We develop several custom plugins for some clients (written in PHP).
+
 ### In 2023
 - We have developed a new plugin to control Shelly devices from WordPress.
 - We develop several custom plugins and custom addons for some clients (written in PHP).
